@@ -1,0 +1,4 @@
+['remote "myremote"']
+url = s3://dshurick-crypto-forecast/
+[core]
+remote = myremote
